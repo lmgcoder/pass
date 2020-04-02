@@ -24,8 +24,8 @@
 <form action="upload.php" method="post" enctype="multipart/form-data">
   <div class="container">
     <div class="form-group">
-      <h5 >Formulario</h5>
-      <h4 class="mt-3 display-4 text-primary">Solicitud de Boleto Estudiantil</h4>		
+      <h5>Formulario</h5>
+      <h4>Solicitud de Boleto Estudiantil</h4>		
     </div>
     <div class="form-group">
       <label for="nombre">Nombre y Apellido</label>
@@ -33,7 +33,7 @@
     </div>
     <div class="form-group">
       <label for="dni">DNI</label>
-      <input type="text" required="required" class="form-control" id="dni" placeholder="Ingrese DNI del alumno">
+      <input type="text" required="required" class="form-control" id="nombre" placeholder="Ingrese DNI del alumno">
     </div>
     <div class="form-group">
       <label for="colegio">Colegio</label>
